@@ -1,1 +1,1 @@
-solutions to alx binary tree team challenge for beginners 
+solutions to alx binary tree team challenge 
